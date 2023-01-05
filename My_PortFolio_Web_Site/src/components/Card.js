@@ -5,7 +5,7 @@ const Card = ({ title, description, imageSrc,tag,Weburl,Giturl }) => {
   return (
     <VStack
       color="black"
-      backgroundColor="white"
+      backgroundColor='#DAF4F4'
       cursor="pointer"
       borderRadius="xl"
       _hover={{ transform: "scale(1.03)", }} transition={"0.2s ease-in-out"}
@@ -18,7 +18,7 @@ const Card = ({ title, description, imageSrc,tag,Weburl,Giturl }) => {
             {title}
           </Heading>
         </HStack>
-        <Text color="#64748b" fontSize="lg" >
+        <Text color="black" as='i' fontSize="lg" >
           {description}
         </Text>
         <HStack alignSelf='center' > 

@@ -36,7 +36,7 @@ const projects = [
    Giturl:'https://github.com/ShivkumarSalunkhe?tab=repositories',
    Weburl:'',
    description: 
-     "A Blog App is a software or service that allows you to create, manage, and publish content on the internet in the form of a blog.Technologies Used: ReactJS, NodeJS, ExpressJS, MongoDB & many other libraries. Also Used JWTs for users Authentication and Authorization.",
+     "A Blog App is a software or service that allows you to create, manage, and publish content on the internet in the form of a blog.Technologies Used: ReactJS, NodeJS, ExpressJS, MongoDB, Material UI, HTML, CSS & many other libraries. Also Used JWTs for users Authentication and Authorization.",
    getImageSrc: () => require("../images/BlogAppgif.gif"), 
  }, 
 ]; 
