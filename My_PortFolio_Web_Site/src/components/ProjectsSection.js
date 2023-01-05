@@ -37,7 +37,7 @@ const projects = [
    Weburl:'',
    description: 
      "A Blog App is a software or service that allows you to create, manage, and publish content on the internet in the form of a blog.Technologies Used: ReactJS, NodeJS, ExpressJS, MongoDB & many other libraries. Also Used JWTs for users Authentication and Authorization.",
-   getImageSrc: () => require("../images/photo4.jpg"), 
+   getImageSrc: () => require("../images/BlogAppgif.gif"), 
  }, 
 ]; 
  
